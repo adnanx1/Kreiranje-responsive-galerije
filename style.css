@@ -1,0 +1,47 @@
+#flexbox-1{
+    display: flex;
+    flex-wrap: wrap;
+}
+#flexbox-1>div{
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 8px;
+    margin: 70px;
+    flex-wrap: wrap;
+    align-content: space-around;
+    background-repeat: no-repeat;
+    
+}
+img {
+    max-width: 100%;
+}
+
+h1{
+    font-weight: normal;
+    font-family: sans-serif;
+    padding-left: 70px;
+}
+#box{
+    background-color: rgba(42, 101, 210, 0.738);
+    border-radius: 8px 8px 0px 0px;
+    width: 120px;
+    height: 80px;
+    
+
+    
+    
+}
+#div{
+    width: 120px;
+    height: 20px;
+    background-color: white;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+p{
+    font-family: sans-serif;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
